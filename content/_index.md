@@ -8,7 +8,7 @@ image:
   caption: NASA
 ---
 
-Welcome to the _Second Brain_ template!
+Welcome to the MindBoxes
 
 The **Second Brain** starter template empowers you to easily create **personal notes** and **knowledge bases** in a future-proof way.
 
